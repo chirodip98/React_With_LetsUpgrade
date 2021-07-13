@@ -1,0 +1,46 @@
+body
+{
+    margin-top:12dp;
+    padding:5dp;
+    background-color:black;
+    color:white;
+
+}
+
+.card
+{
+    font-family:sans-serif;
+    text-align:center;
+    display: block;
+    padding-top: 10dp;
+    padding-bottom: 10dp;
+}
+
+
+.card h2
+{
+    font-size: large;
+    text-shadow: 1px -1px -1px;
+}
+
+.card h3
+{
+    color: red;
+    line-height:2;
+}
+
+.card footer
+{
+    text-align: center;
+    color: aquamarine;
+    margin-bottom:10px;
+    padding-top: 5px;
+}
+
+.btn
+{
+    overflow: none;
+    align-self: center;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
